@@ -7,7 +7,6 @@ int main()
 {
     srand(time(NULL));
 
-    // Первая запись обьявляет переменную rock указателем на char.
     const char* rock = R"(
     _______
 ---'   ____)
