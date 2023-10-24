@@ -109,5 +109,6 @@ int main()
         {
             is_running = false;
         }
+        system("cls");
     }
 }
