@@ -1,5 +1,5 @@
 ﻿#include <iostream>
-#include "time.h"
+#include <time.h>
 #include <string>
 
 using namespace std;
@@ -101,7 +101,7 @@ int main()
         else
         {
             PrintResponse(user_choice, computer_choice, response_options);
-            CalculateResult(user_choice, computer_choice);            
+            CalculateResult(user_choice, computer_choice);
         }
 
         cout << "Play again? y/n: "; cin >> choice;
