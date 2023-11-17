@@ -16,8 +16,8 @@ TODO
 ### Скачать
 
 VisualStudio должен быть уже установлен.
-[Скачать](https://github.com/Araime/rock-scissors-paper/archive/master.zip) этот 
-репозиторий себе на компьютер.
+[Скачать](https://github.com/Araime/rock-scissors-paper/archive/master.zip) этот репозиторий себе на компьютер.
+В папке репозитория открыть файл с расширением `.cpp`.
 
 ## Цель проекта
 
